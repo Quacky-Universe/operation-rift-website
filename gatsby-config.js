@@ -38,4 +38,5 @@ module.exports = {
       __key: "pages",
     },
   ],
+  pathPrefix: "/operation-rift-website",
 };
